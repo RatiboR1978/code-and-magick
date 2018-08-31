@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6fc8d0a-f60e-4eeb-897c-1347ff0b88c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/rlragd94-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/rlragd94-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/rlragd94-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/rlragd94-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrows-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fence.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fireball-mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fireball.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/htmlacademy-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon-cross.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon-star-inactive-form.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon-star-inactive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon-star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/title-gallery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/title-reviews.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/title-site.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tree.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/user-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/user-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/user-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wizard-reversed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wizard.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/code-and-magick.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/rlragd94-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wizard.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/game.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,11 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="2876">
+              <caret line="208" column="7" lean-forward="true" selection-start-line="208" selection-start-column="7" selection-end-line="208" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stat.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/stat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="668">
+              <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -73,8 +41,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/stat.js" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -110,6 +93,11 @@
               <item name="code-and-magick" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-and-magick" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="code-and-magick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-and-magick" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -143,12 +131,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535668324759</updated>
-      <workItem from="1535668327536" duration="146000" />
+      <workItem from="1535668327536" duration="11843000" />
     </task>
+    <task id="LOCAL-00001" summary="Загрузка проекта">
+      <created>1535668505870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535668505870</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Создание ветки">
+      <created>1535669032287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535669032287</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задание1">
+      <created>1535672932525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535672932525</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задание2">
+      <created>1535693196884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535693196884</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задание2 продолжение">
+      <created>1535694473474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535694473474</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146000" />
+    <option name="totallyTimeSpent" value="11843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -157,25 +181,60 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Загрузка проекта" />
+    <MESSAGE value="Создание ветки" />
+    <MESSAGE value="Задание1" />
+    <MESSAGE value="Задание2" />
+    <MESSAGE value="Задание2 продолжение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание2 продолжение" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -184,8 +243,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2876">
+          <caret line="208" column="7" lean-forward="true" selection-start-line="208" selection-start-column="7" selection-end-line="208" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/stat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
           <folding />
         </state>
       </provider>
