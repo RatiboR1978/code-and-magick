@@ -131,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535668324759</updated>
-      <workItem from="1535668327536" duration="11217000" />
+      <workItem from="1535668327536" duration="11843000" />
     </task>
     <task id="LOCAL-00001" summary="Загрузка проекта">
       <created>1535668505870</created>
@@ -161,11 +161,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535693196884</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Задание2 продолжение">
+      <created>1535694473474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535694473474</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11217000" />
+    <option name="totallyTimeSpent" value="11843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -191,6 +198,33 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -199,7 +233,8 @@
     <MESSAGE value="Создание ветки" />
     <MESSAGE value="Задание1" />
     <MESSAGE value="Задание2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание2" />
+    <MESSAGE value="Задание2 продолжение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание2 продолжение" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
